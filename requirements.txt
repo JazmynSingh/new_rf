@@ -2,8 +2,7 @@ ipywidgets
 pandas
 Ipython
 sklearn
-xgboost
+xgboost==0.90
 numpy
 datetime
-pickle
 voila
